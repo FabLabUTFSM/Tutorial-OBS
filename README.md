@@ -201,7 +201,7 @@ Luego la seleccionas desde el menú de configuración de transiciones, presionas
 
 ![Iniciar transmisión Zoom (2)](./imagenes/iniciar-camara-virtual(2).png)
 
-4. Activar micrófono como dispositivo Mézcla estéreo.
+4. Activar micrófono como dispositivo Mézcla estéreo. Si no aparece, debe activarlo desde el Panel de control de sonido, en la pestaña "Grabar".
 
 ![Iniciar transmisión Zoom (3)](./imagenes/iniciar-camara-virtual(3).png)
 
@@ -209,7 +209,7 @@ Nota: Los participantes de la reunión escucharán todo lo que tu computador rec
 
 ![Mezclador de volumen](./imagenes/mezclador-de-volumen.png)
 
-Se recomienda deshabilitar los micrófonos de la reunión, de lo contrario los participantes no hablan sin obtener respuesta.
+Se recomienda deshabilitar los micrófonos de la reunión, de lo contrario los participantes hablarán sin obtener respuesta.
 
 ![Deshabilitar micrófonos](./imagenes/deshabilitar-microfonos.png)
 
