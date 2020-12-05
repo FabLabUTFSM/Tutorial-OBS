@@ -179,7 +179,7 @@ Luego la seleccionas desde el menú de configuración de transiciones, presionas
 
 ![Iniciar transmisión YouTube (2)](./imagenes/transmitir(2).png)
 
-5. En OBS, ir a Ajustes en el menú inferior derecho, Transmisión, seleccionar "Youtube RTMP" y pegar la clave de transmisión copiada.
+5. En OBS, ir a Ajustes en el menú inferior derecho, luego en la pestaña Emisión, seleccionar "Youtube RTMP" y pegar la clave de transmisión copiada.
 
 ![Iniciar transmisión YouTube (3)](./imagenes/transmitir(3).png)
 ![Iniciar transmisión YouTube (3)](./imagenes/transmitir(4).png)
