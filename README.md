@@ -32,7 +32,7 @@ Este instructivo documenta lo básico para comenzar a transmitir. Se empleará l
 ## Entorno <a name="entorno"></a>
 La pantalla por defecto de OBS debería ser la siguiente:
 
-![Pantalla inicial](./imagenes/entorno.png)
+![Pantalla inicial](./imagenes/entorno.PNG)
 
 Sin embargo se recomienda encarecidamente activar el Modo estudio, presionando el botón ubicado en el sector inferior derecho de la pantalla.
 
