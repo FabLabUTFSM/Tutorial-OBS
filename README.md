@@ -64,6 +64,7 @@ Una escena es una colección de fuentes. Al igual que en una obra de teatro una 
 
 #### Manejo de escenas <a name="manejo-de-escenas"></a>
 ![Escena (3)](./imagenes/escena.png)
+
 - **(1) Agregar una escena**: Presionar el botón "+", luego escribir el nombre de la escena y presionar "Aceptar".
 - **(2) Eliminar una escena**: Presionar la escena a eliminar, luego presionar el botón "-" y confirmar la eliminación. Las fuentes que aparecen en dicha escena también serán eliminados.
 - **(3) Ordenar una escena**: Si tenemos muchas escenas y queremos que unas queden cerca de otras, seleccionamos la escena a mover y la movemos con cualquiera de los botones, según corresponda.
@@ -71,10 +72,12 @@ Una escena es una colección de fuentes. Al igual que en una obra de teatro una 
 
 ### Fuentes <a name="fuentes"></a>
 ![Multimedia](./imagenes/contenidos-multimedia.jpg)
+
 Una fuente puede ser texto, una imagen, una galería de imágenes, un video, música, una lista de reproducción, un elemento obtenido desde el navegador o una ventana de otra aplicación.
 
 #### Manejo de fuentes <a name="manejo-de-fuentes"></a>
 ![Fuentes](./imagenes/fuentes.png)
+
 - **(1) Agregar una fuente**: Presionar el botón "+", luego seleccionar la fuente deseada, escribir el nombre de la fuente y presionar "Aceptar". A veces no aparece inmediatamente en la lista, pero puedes actualizar seleccionando otra escena y luego regresar a ella.
 - **(2) Eliminar una fuente**: Presionar la fuente a eliminar, luego presionar el botón "-" y confirmar la eliminación.
 - **(3) Modificar una fuente**: Seleccionamos la fuente, presionamos la tuerca para acceder a sus propiedades o damos click derecho y seleccionamos la opción que queramos.
