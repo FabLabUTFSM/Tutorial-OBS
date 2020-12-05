@@ -170,7 +170,7 @@ Luego la seleccionas desde el menú de configuración de transiciones, presionas
 ## Transmitir <a name="transmitir"></a>
 ### Transmisión en YouTube <a name="transmision-en-youtube"></a>
 1. Ir a YouTube.
-2. Presionar el botón de cámara y seleccionar "Nuevo video en vivo".
+2. Presionar el botón de cámara y seleccionar "Transmitir en vivo".
 
 ![Iniciar transmisión YouTube (1)](./imagenes/transmitir(1).png)
 
