@@ -22,7 +22,8 @@
         - [Diagrama de interacciones pre-incorporación de Instagram](#diagrama-pre-instagram)
         - [Diagrama de interacciones post-incorporación de Instagram](#diagrama-post-instagram)
         - [Limitaciones del modelo](#limitaciones-del-modelo)
-        - [Próximos desafíos](#proximos-desafios)
+    - [Videos de la transmisión](#videos)
+    - [Próximos desafíos](#proximos-desafios)
 
 ## ¿Qué es OBS y cómo usarlo? <a name="que-es-obs"></a>
 Open Broadcaster Software (OBS) es un programa gratuito y de código abierto para grabación de video y transmisión en vivo. Sirve para transmitir en diversas plataformas, entre ellas Twitch, YouTube, Facebook e Instagram.
@@ -282,6 +283,10 @@ Si no perteneces al equipo y deseas acceso temporal, puedes mandar un correo a m
 - El director sólo puede comunicarse mediante micrófono con los presentadores por Google Meet y a los espectadores de Youtube vía OBS, pero no a Zoom (debido a que tiene el micrófono configurado como Mezcla estéreo. La activación de la reproducción del micrófono via Panel de control de sonido en Windows, y el uso de unos audífonos, pueden solucionar este problema.
 - Los presentadores no pueden ver la interacción por chat a menos que se conecten a la transmisión en Youtube y a Zoom, pero esto representa un riesgo al audio de la transmisión por el eco producido al tener el micrófono activado y escuchar la transmisión a la vez. Se puede evitar si los presentadores ven la transmisión con audífonos y silenciándola al momento de hablar. La incorporación de un Comentarista a la reunión de Google Meet que esté atento a ambas plataformas (Zoom y YouTube) también resuelve el problema.
 - De forma similar, los presentadores no pueden ver lo que está sucediendo en la transmisión, pero la compartición de pantalla por Google Meet soluciona este problema parcialmente (no comparte el audio pero pueden apreciar la transmisión visualmente).
+
+### Videos de la transmisión <a name="videos"></a>
+[![Taller de bioplásticos](http://img.youtube.com/vi/_2rKwx5rGp8/0.jpg)](https://www.youtube.com/watch?v=_2rKwx5rGp8&t=50s)
+[![Taller de energía solar](http://img.youtube.com/vi/QMiLrNlivbU/0.jpg)](https://www.youtube.com/watch?v=QMiLrNlivbU)
 
 ### Próximos desafíos <a name="proximos-desafios"></a>
 - Usar otras entradas de audio en vez de la mezcla estéreo. De esta forma se podrá permitir que los participantes de Zoom activen su micrófono.
