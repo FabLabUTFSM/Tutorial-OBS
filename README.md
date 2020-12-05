@@ -255,6 +255,7 @@ Si eres del equipo Multimedia del Fablab UTFSM y deseas usar la configuración d
 
 ![Importar colección de escenas (3)](./imagenes/importar-escena(3).png)
 
+5. Corregir ubicaciones de las fuentes. Para esto presiona una fuente, luego click derecho y "Propiedades" y actualiza la ubicación según corresponda. Este proceso debe repetirse con todas las fuentes.
 
 Si no perteneces al equipo y deseas acceso temporal, puedes mandar un correo a multimedia@fablab.usm.cl con el asunto "Obtener acceso al material de OBS - FabLAT FEST 2020".
 
