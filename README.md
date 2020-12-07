@@ -242,27 +242,6 @@ En esta ocasión, las plataformas elegidas fueron Zoom (aplicación para reunion
 Posteriormente se incorporó la participación de sorteos en vivo vía Instagram.
 
 ### Solución <a name="solucion"></a>
-#### Material utilizado <a name="material-utilizado"></a>
-Si eres del equipo Multimedia del Fablab UTFSM y deseas usar la configuración de escenas, transiciones y fuentes utilizadas para la transmisión del FabLAT FEST 2020, puedes [descargarla aquí](https://drive.google.com/file/d/1llBtQA-_JPd4g3Y7jZGOMEyPOoH4blPW/view?usp=sharing). Una vez hecho esto:
-
-1. Descomprime el material descargado en una carpeta de fácil acceso.
-
-2. En OBS, ve al menú superior y en la pestaña "Colección de Escenas" presiona "Importar".
-
-![Importar colección de escenas (1)](./imagenes/importar-escena(1).png)
-
-3. En "Ruta de la colección" presiona los tres puntos suspensivos y selecciona el archivo JSON que acabas de descomprimir. Luego oprime "Importar".
-
-![Importar colección de escenas (2)](./imagenes/importar-escena(2).png)
-
-4. Ve nuevamente a "Colección de Escenas" y selecciona "Fablat 2020".
-
-![Importar colección de escenas (3)](./imagenes/importar-escena(3).png)
-
-5. Corregir ubicaciones de las fuentes. Para esto presiona una fuente, luego click derecho y "Propiedades" y actualiza la ubicación según corresponda. Este proceso debe repetirse con todas las fuentes.
-
-Si no perteneces al equipo y deseas acceso temporal, puedes mandar un correo a multimedia@fablab.usm.cl con el asunto "Obtener acceso al material de OBS - FabLAT FEST 2020".
-
 #### Diagrama de interacciones pre-incorporación de Instagram <a name="diagrama-pre-instagram"></a>
 ![Diagrama pre-incorporación de Instagram](./imagenes/diagrama-pre-instagram.png)
 
@@ -283,6 +262,29 @@ Si no perteneces al equipo y deseas acceso temporal, puedes mandar un correo a m
 - El director sólo puede comunicarse mediante micrófono con los presentadores por Google Meet y a los espectadores de Youtube vía OBS, pero no a Zoom (debido a que tiene el micrófono configurado como Mezcla estéreo. La activación de la reproducción del micrófono via Panel de control de sonido en Windows, y el uso de unos audífonos, pueden solucionar este problema.
 - Los presentadores no pueden ver la interacción por chat a menos que se conecten a la transmisión en Youtube y a Zoom, pero esto representa un riesgo al audio de la transmisión por el eco producido al tener el micrófono activado y escuchar la transmisión a la vez. Se puede evitar si los presentadores ven la transmisión con audífonos y silenciándola al momento de hablar. La incorporación de un Comentarista a la reunión de Google Meet que esté atento a ambas plataformas (Zoom y YouTube) también resuelve el problema.
 - De forma similar, los presentadores no pueden ver lo que está sucediendo en la transmisión, pero la compartición de pantalla por Google Meet soluciona este problema parcialmente (no comparte el audio pero pueden apreciar la transmisión visualmente).
+
+#### Material utilizado <a name="material-utilizado"></a>
+Si eres del equipo Multimedia del Fablab UTFSM y deseas usar la configuración de escenas, transiciones y fuentes utilizadas para la transmisión del FabLAT FEST 2020, puedes [descargarla aquí](https://drive.google.com/file/d/1llBtQA-_JPd4g3Y7jZGOMEyPOoH4blPW/view?usp=sharing). Una vez hecho esto:
+
+1. Descomprime el material descargado en una carpeta de fácil acceso.
+
+2. Instala la transición "Mover" extraeyendo las carpetas "data" y "obs-plugins" del archivo "move-transition-2.0.2-windows.zip", luego córtalas y pégalas en el directorio del OBS (Generalmente C:\Program Files\obs-studio).
+
+3. En OBS, ve al menú superior y en la pestaña "Colección de Escenas" presiona "Importar".
+
+![Importar colección de escenas (1)](./imagenes/importar-escena(1).png)
+
+4. En "Ruta de la colección" presiona los tres puntos suspensivos y selecciona el archivo JSON que acabas de descomprimir. Luego oprime "Importar".
+
+![Importar colección de escenas (2)](./imagenes/importar-escena(2).png)
+
+5. Ve nuevamente a "Colección de Escenas" y selecciona "Fablat 2020".
+
+![Importar colección de escenas (3)](./imagenes/importar-escena(3).png)
+
+6. Corregir ubicaciones de las fuentes. Para esto presiona una fuente, luego click derecho y "Propiedades" y actualiza la ubicación según corresponda. Este proceso debe repetirse con todas las fuentes.
+
+Si no perteneces al equipo y deseas acceso temporal, puedes mandar un correo a multimedia@fablab.usm.cl con el asunto "Obtener acceso al material de OBS - FabLAT FEST 2020".
 
 ### Videos de la transmisión <a name="videos"></a>
 [![Taller de bioplásticos](http://img.youtube.com/vi/_2rKwx5rGp8/0.jpg)](https://www.youtube.com/watch?v=_2rKwx5rGp8&t=50s)
