@@ -268,7 +268,7 @@ Si eres del equipo Multimedia del Fablab UTFSM y deseas usar la configuración d
 
 1. Descomprime el material descargado en una carpeta de fácil acceso.
 
-2. Instala la transición "Mover" extraeyendo las carpetas "data" y "obs-plugins" del archivo "move-transition-2.0.2-windows.zip", luego córtalas y pégalas en el directorio del OBS (Generalmente C:\Program Files\obs-studio).
+2. Instala la transición "Mover". Para esto extrae las carpetas "data" y "obs-plugins" del archivo "move-transition-2.0.2-windows.zip", luego córtalas y pégalas en el directorio del OBS (Generalmente C:\Program Files\obs-studio).
 
 3. En OBS, ve al menú superior y en la pestaña "Colección de Escenas" presiona "Importar".
 
