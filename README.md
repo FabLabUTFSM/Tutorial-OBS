@@ -18,10 +18,10 @@
 4. [FabLAT FEST 2020](#fablat-fest-2020)
     - [Contexto](#contexto)
     - [Solución](#solucion)
-        - [Material utilizado](#material-utilizado)
         - [Diagrama de interacciones pre-incorporación de Instagram](#diagrama-pre-instagram)
         - [Diagrama de interacciones post-incorporación de Instagram](#diagrama-post-instagram)
         - [Limitaciones del modelo](#limitaciones-del-modelo)
+        - [Material utilizado](#material-utilizado)
     - [Videos de la transmisión](#videos)
     - [Próximos desafíos](#proximos-desafios)
 
