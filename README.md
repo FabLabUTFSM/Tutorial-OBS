@@ -53,6 +53,7 @@ A continuación explicaré cada sección y una breve descripción de ella:
 8. **Mezclador de audio**: Muestra las fuentes de audio disponibles de la escena. Si agregamos una fuente reproducible veremos su control de volumen en el mezclador.
 9. **Menú de configuración de transiciones**: Para configurar una transición.
 10. **Controles**: Botonera que contiene botones útiles. Sirve para grabar un respaldo de la transmisión, comenzar y detener la transmisión, configurar la transmisión como si fuera una cámara virtual, etc.
+11. **Barra de estado**: Muestra el estado de la conexión, tiempo transcurrido de transmisión, tiempo transcurrido de grabación, uso de CPU y tasa de fps.
 
 Para entender mejor cada tema, veremos los componentes en detalle.
 
